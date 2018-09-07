@@ -1,7 +1,7 @@
-## TESTING
+## TESTING - I understand how to update this text
 
 
-How do I add my own HTML, CSS and JS files??
+But how do I add my OWN HTML, CSS and JS files??
 
 You can use the [editor on GitHub](https://github.com/lhuffman15/lhuffman15.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
